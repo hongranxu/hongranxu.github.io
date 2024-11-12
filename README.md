@@ -1,3 +1,3 @@
 # Welcome to Harry's website
 
-Research happens here..
+Contribuation to and sharing knowledge are fun..
